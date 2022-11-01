@@ -1,1 +1,1 @@
-pytqt5
+pyqt5
