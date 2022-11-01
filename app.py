@@ -1,8 +1,7 @@
 #! /usr/bin/env python3
 
-from PyQt5.QtSvg import QSvgWidget
-from PyQt5.QtWidgets import QApplication, QWidget
-from PyQt5.QtCore import QByteArray
+from PyQt6.QtSvgWidgets import QSvgWidget
+from PyQt6.QtWidgets import QApplication, QWidget
 
 
 class MainWindow(QWidget):
